@@ -10,7 +10,7 @@ About me
 
 🎸 I also love playing instruments and listening to music
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLucasEduardo&show_icons=true&theme=radical)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLucasEduardo&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasEduardo&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasEduardo&layout=compact&theme=dracula)
 )
