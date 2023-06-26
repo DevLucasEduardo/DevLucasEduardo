@@ -13,4 +13,4 @@ About me
 
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasEduardo&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasEduardo&theme=dracula)
