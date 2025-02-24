@@ -4,11 +4,9 @@ About me
 
 🎓 Manufacturing Engineering.
 
-🎓 Currently studying Systems Analysis and Development.
+🎓 Systems Analysi.
 
-🖥️ Coding and solving problems is my passion.
-
-🎸 I also love playing instruments and listening to music.
+🖥️ Data Analyst.
 
 <br>
 <div>
